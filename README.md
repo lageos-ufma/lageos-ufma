@@ -1,4 +1,8 @@
-## O Geoprocessamento e o Sensoriamento Remoto na perspectiva da paisagem e sua composição, são amplamente utilizados como ferramentas para monitorar os ecossistemas naturais e suas mudanças. A obtenção de informações geoespaciais para monitoramento e planejamento ambiental integrado, associado aos recursos pesqueiros, possui um potencial positivo para análises multidisciplinares que subsidiam o desenvolvimento econômico
+####
+
+**Laboratório de Geoprocessamento e Sensoriamento Remoto - LAGEOS**
+
+O Geoprocessamento e o Sensoriamento Remoto na perspectiva da paisagem e sua composição, são amplamente utilizados como ferramentas para monitorar os ecossistemas naturais e suas mudanças. A obtenção de informações geoespaciais para monitoramento e planejamento ambiental integrado, associado aos recursos pesqueiros, possui um potencial positivo para análises multidisciplinares que subsidiam o desenvolvimento econômico.
 
 
 
