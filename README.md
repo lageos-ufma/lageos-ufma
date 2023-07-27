@@ -15,4 +15,4 @@ Contacts
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lageos-ufma&show_icons=true&theme=midnight-purple)
 
-![Nome alternativo](https://media.giphy.com/media/8Am0UlfiwZcgEDOy4h/giphy.gif)
+![Nome alternativo](https://media.giphy.com/media/CYRbydew8EXYCwcB8e/giphy.gif)
