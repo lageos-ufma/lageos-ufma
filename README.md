@@ -1,4 +1,4 @@
-
+O Geoprocessamento e o Sensoriamento Remoto na perspectiva da paisagem e sua composição, são amplamente utilizados como ferramentas para monitorar os ecossistemas naturais e suas mudanças. A obtenção de informações geoespaciais para monitoramento e planejamento ambiental integrado, associado aos recursos pesqueiros, possui um potencial positivo para análises multidisciplinares que subsidiam o desenvolvimento econômico
 
 
 
@@ -8,9 +8,9 @@
 Contacts
 
 <div>
-<a href="https://instagram.com/milena.monteiro88/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@milenamonteirofeitosa/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/milenamonteirofeitosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/usuario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@lageos/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/usuario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>     
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lageos-ufma&show_icons=true&theme=github_dark)
