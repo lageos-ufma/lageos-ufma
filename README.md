@@ -13,6 +13,6 @@ Contacts
 <a href="https://www.linkedin.com/in/milenamonteirofeitosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenamonteirofeitosa&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lageos-ufma&show_icons=true&theme=midnight-purple)
 
 ![Nome alternativo](https://media.giphy.com/media/3o7btUArDVF1XAimaI/giphy.gif)
